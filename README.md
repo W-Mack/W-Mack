@@ -1,4 +1,4 @@
-Programming languages : Python and C++ (planning on learning haskell and C).
+Programming languages : Python and C++ (Planning on learning C and others).
 
 Spoken languages : English, French (fluent in both).
 
